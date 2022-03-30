@@ -1,0 +1,13 @@
+/Users/tobiasengberg/Projects/ExceptionsTest/bin/Debug/netcoreapp3.1/ExceptionsTest.deps.json
+/Users/tobiasengberg/Projects/ExceptionsTest/bin/Debug/netcoreapp3.1/ExceptionsTest.runtimeconfig.json
+/Users/tobiasengberg/Projects/ExceptionsTest/bin/Debug/netcoreapp3.1/ExceptionsTest.runtimeconfig.dev.json
+/Users/tobiasengberg/Projects/ExceptionsTest/bin/Debug/netcoreapp3.1/ExceptionsTest.dll
+/Users/tobiasengberg/Projects/ExceptionsTest/bin/Debug/netcoreapp3.1/ExceptionsTest.pdb
+/Users/tobiasengberg/Projects/ExceptionsTest/obj/Debug/netcoreapp3.1/ExceptionsTest.csproj.AssemblyReference.cache
+/Users/tobiasengberg/Projects/ExceptionsTest/obj/Debug/netcoreapp3.1/ExceptionsTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasengberg/Projects/ExceptionsTest/obj/Debug/netcoreapp3.1/ExceptionsTest.AssemblyInfoInputs.cache
+/Users/tobiasengberg/Projects/ExceptionsTest/obj/Debug/netcoreapp3.1/ExceptionsTest.AssemblyInfo.cs
+/Users/tobiasengberg/Projects/ExceptionsTest/obj/Debug/netcoreapp3.1/ExceptionsTest.csproj.CoreCompileInputs.cache
+/Users/tobiasengberg/Projects/ExceptionsTest/obj/Debug/netcoreapp3.1/ExceptionsTest.dll
+/Users/tobiasengberg/Projects/ExceptionsTest/obj/Debug/netcoreapp3.1/ExceptionsTest.pdb
+/Users/tobiasengberg/Projects/ExceptionsTest/obj/Debug/netcoreapp3.1/ExceptionsTest.genruntimeconfig.cache
